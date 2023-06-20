@@ -1,4 +1,4 @@
-# A wechat bot using whochat
+# A wechat bot using [whochat](https://github.com/amchii/whochat)
 
 ## 环境
 * Python版本>=3.8, 推荐使用最新版本
